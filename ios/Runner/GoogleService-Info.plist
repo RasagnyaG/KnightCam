@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>311783816502-1e4fvcdpcv5ct5d0tdrk05kicic045jp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.311783816502-1e4fvcdpcv5ct5d0tdrk05kicic045jp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>311783816502-tknn2q0mejc9rrav2uum809tc6ukobig.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBqWE2H91BjNOyp_6fPMpjLDGgA7tOzsA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>311783816502</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.KnightCam</string>
+	<key>PROJECT_ID</key>
+	<string>knightcam-742f8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>knightcam-742f8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:311783816502:ios:d7f03a8405c6332cd7c797</string>
+</dict>
+</plist>
